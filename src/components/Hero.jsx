@@ -124,7 +124,7 @@ function Hero() {
               </a>
 
               &nbsp;&nbsp;&nbsp;&nbsp;
-
+               <br />
               {/* Coding / Codolio */}
               <a
                 href="https://codolio.com/profile/pritampp"
@@ -176,6 +176,7 @@ function Hero() {
               </a>
 
               &nbsp;&nbsp;&nbsp;&nbsp;
+              <br />
 
               {/* Twitter / X */}
               <a
