@@ -13,25 +13,27 @@ import Education from "../components/Education";
 import Certifications from "../components/Certifications";
 import Courses from "../components/Courses";
 import Books from "../components/Books";
+import Skills from "../components/Skills";
 function Home() {
   return (
     <>
       <Navbar />
 
-      <main className="container">
+      <main className="w-full max-w-[900px] mx-auto px-[14px]">
         <Hero />
+        <Skills/>
         <Education />
         <Experience />
         <Projects />
         <Publications />
-        <Certifications/>
-        <Courses/>
+        <Certifications />
+        <Courses />
         <Achievements />
         <Events />
         <Talks />
         <Leadership />
         <CommunityService />
-        <Books/>
+        <Books />
         <Footer />
       </main>
     </>

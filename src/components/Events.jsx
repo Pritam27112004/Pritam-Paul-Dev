@@ -1,13 +1,11 @@
 function Events() {
   const events = [
     {
-      year: 2026,
       title: "CII Eastern Region Hackathon",
       description:
         "Participated in the hackathon and gained exposure to industry perspectives and problem-solving approaches.",
     },
     {
-      year: 2026,
       title: "Institute of Neurosciences Kolkata Visit",
       description:
         "Participated in an industry/institutional visit and learned about applications of technology in healthcare.",
@@ -15,18 +13,21 @@ function Events() {
   ];
 
   return (
-    <section>
-      <h2>Events Participated</h2>
+    <section className="py-8 max-md:py-[30px] border-b border-[#303030]">
+      <h2 className="text-[29px] max-md:text-[27px] leading-[1.25] font-semibold text-[#f5f5f5] mb-[25px]">
+        Events Participated
+      </h2>
 
-      {events.map((event, index) => (
-        <article className="timeline-entry" key={index}>
-          <div className="year">{event.year}</div>
-
-          <div>
-            <h3>{event.title}</h3>
-            <p>{event.description}</p>
-          </div>
-        </article>
+      {events.map((item, index) => (
+        <div key={index} className="mb-4">
+          <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.45]">
+            •{" "}
+            <span className="text-[#ff4b4b] font-medium">
+              {item.title}
+            </span>
+            : {item.description}
+          </p>
+        </div>
       ))}
     </section>
   );

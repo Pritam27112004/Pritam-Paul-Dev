@@ -15,16 +15,27 @@ function Leadership() {
   ];
 
   return (
-    <section>
-      <h2>Leadership</h2>
+    <section className="py-8 max-md:py-[30px] border-b border-[#303030]">
+      <h2 className="text-[29px] max-md:text-[27px] leading-[1.25] font-semibold text-[#f5f5f5] mb-[25px]">
+        Leadership
+      </h2>
 
       {leadership.map((item, index) => (
-        <article className="timeline-entry" key={index}>
-          <div className="year">{item.year}</div>
+        <article
+          key={index}
+          className="grid grid-cols-[85px_1fr] max-md:grid-cols-1 gap-x-[22px] max-md:gap-y-1 mb-7"
+        >
+          <div className="text-[18px] max-md:text-[17px] font-medium text-[#f5f5f5] leading-[1.5]">
+            {item.year}
+          </div>
 
           <div>
-            <h3>{item.role}</h3>
-            <p>{item.description}</p>
+            <h3 className="text-[20px] leading-[1.4] font-medium text-[#f5f5f5] mb-[5px]">
+              {item.role}
+            </h3>
+            <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.45] mb-2">
+              {item.description}
+            </p>
           </div>
         </article>
       ))}
