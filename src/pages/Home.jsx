@@ -1,6 +1,5 @@
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
-import News from "../components/News";
 import Publications from "../components/Publications";
 import Projects from "../components/Projects";
 import Experience from "../components/Experience";
@@ -10,7 +9,10 @@ import Talks from "../components/Talks";
 import Leadership from "../components/Leadership";
 import CommunityService from "../components/CommunityService";
 import Footer from "../components/Footer";
-
+import Education from "../components/Education";
+import Certifications from "../components/Certifications";
+import Courses from "../components/Courses";
+import Books from "../components/Books";
 function Home() {
   return (
     <>
@@ -18,15 +20,18 @@ function Home() {
 
       <main className="container">
         <Hero />
-        <News />
-        <Publications />
-        <Projects />
+        <Education />
         <Experience />
+        <Projects />
+        <Publications />
+        <Certifications/>
+        <Courses/>
         <Achievements />
         <Events />
         <Talks />
         <Leadership />
         <CommunityService />
+        <Books/>
         <Footer />
       </main>
     </>

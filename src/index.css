@@ -211,8 +211,8 @@ p {
 }
 
 .hero-image img {
-  width: 170px;
-  height: 170px;
+  width: 260px;
+  height: 440px;
 
   object-fit: cover;
 
@@ -666,4 +666,7 @@ footer p {
     flex-direction: column;
     gap: 5px;
   }
+}
+.red-text {
+  color: #ff4b4b;
 }
