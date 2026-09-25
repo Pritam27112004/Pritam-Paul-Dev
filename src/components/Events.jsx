@@ -1,14 +1,100 @@
 function Events() {
   const events = [
     {
-      title: "CII Eastern Region Hackathon",
+      title: "IEM Research Center",
       description:
-        "Participated in the hackathon and gained exposure to industry perspectives and problem-solving approaches.",
+        "Visited IEM Research Center at IIT KGP Research Park to see ongoing Research.",
     },
     {
-      title: "Institute of Neurosciences Kolkata Visit",
+      title: "Visited IN-K",
       description:
-        "Participated in an industry/institutional visit and learned about applications of technology in healthcare.",
+        "Visited institute of Neuroscience Kolkata, India for understanding ongoing Research in Neuroscience.",
+    },
+    {
+      title: "Participated in Amazon ML Challenge 2026[27.09.2026]",
+      description:
+        "",
+    },
+    {
+      title: "Brickwise 2026",
+      description:
+        "4 days data engineering and databricks Bootcamp organized by Institute of Engineering and Management Kolkata.",
+    },
+    {
+      title: "Solution Challenge 2026",
+      description:
+        "Partcipated in Google Solution Challenge 2026.",
+    },
+
+    {
+      title: "ET AI Hackathon 2.0 2026",
+      description:
+        "Partcipated in AI Hackathon by The Economics Time",
+    },
+    {
+      title: "Campus Crew AI Innovation Challenge 2026",
+      description:
+        "",
+    },
+    {
+      title: "Perceptrix 2025",
+      description:
+        "GenAI Bootcamp by ACM",
+    },
+    {
+      title: "App and Web Development bootcamp by ACM India 2024",
+      description:
+        "",
+    },
+    {
+      title: "AI ML workshop by GFG [02.06.2025]]",
+      description:
+        "",
+    },
+    {
+      title: "Binary Brains 5.0 , Technical Quize Competition [28.01.2025]",
+      description:
+        "",
+    },
+    {
+      title: "Energia 2026 , Sustainability Ideathon[29.01.2026]",
+      description:
+        "",
+    },
+    {
+      title: "Tata Crubicle Campus Quize 2025 , Organised by TATA Group",
+      description:
+        "",
+    },
+    {
+      title: "CYBERX 2026 , Cyber Security Bootcamp by ACM[07.02.2026]",
+      description:
+        "",
+    },
+    {
+      title: "Adobe University Hackathon 2026",
+      description:
+        "",
+    },
+    {
+      title: "Product Management Case Study Competition by India Institute of Management Ahmedabad 2026",
+      description:
+        "",
+    },
+    {
+      title: "Bootcamp on Enterprise Cloud Security by GeeksForGeeks [26.06.2025]",
+      description:
+        "",
+    },
+    {
+      title: "Industrial Visit to Indian Space Research Organization [east region] [28.09.2026]",
+      description:
+        "",
+    },
+    {
+      title: "Industrial Visit to Variable Energy Cyclotron Center Kolkata[02.11.2026]",
+      description:
+        "",
     },
   ];
 

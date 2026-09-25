@@ -5,9 +5,7 @@ function Footer() {
         © {new Date().getFullYear()} Pritam Paul
       </p>
 
-      <p className="m-0">
-        Built with React · Vite
-      </p>
+      
     </footer>
   );
 }

@@ -2,9 +2,15 @@ function Talks() {
   const talks = [
     {
       year: 2026,
-      title: "Technical Workshops & Knowledge Sessions",
+      title: "Summer of Code [Taught DSA]",
       description:
-        "Participated in and contributed to technical learning sessions covering programming, software development and emerging technologies.",
+        "4 day DSA Bootcamp organised by IEEE Computer Society UEMK Chapter, taught foundation of DSA and introduction to graph and DP.",
+    },
+    {
+      year: 2025,
+      title: "Teaching on YouTube:",
+      description:
+        "@Pritam Paul is the channel name where i teach tech content",
     },
   ];
 
@@ -24,7 +30,7 @@ function Talks() {
           </div>
 
           <div>
-            <h3 className="text-[20px] leading-[1.4] font-medium text-[#f5f5f5] mb-[5px]">
+            <h3 className="text-[#ff4b4b] text-[20px] leading-[1.4] font-medium text-[#f5f5f5] mb-[5px]">
               {talk.title}
             </h3>
             <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.45] mb-2">
