@@ -24,6 +24,23 @@ function Navbar() {
           >
             Blog
           </Link>
+          <a
+  href="https://drive.google.com/file/d/1HNK148VHFSKAu2gw69C1AXqAIWbCxoQj/view?usp=drive_link"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="text-[#ff4b4b] hover:text-[#ff6666] text-[18px] max-md:text-[16px] font-normal transition-colors"
+>
+  Resume
+</a>
+
+<a
+  href="https://drive.google.com/file/d/1nh1x2qVs3oioEjS3ApKKzHZSF7zeK0IF/view"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="text-[#ff4b4b] hover:text-[#ff6666] text-[18px] max-md:text-[16px] font-normal transition-colors"
+>
+  CV
+</a>
         </nav>
       </div>
     </header>

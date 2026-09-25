@@ -75,7 +75,7 @@ function Hero() {
 
               {/* Resume */}
               <a
-                href="https://drive.google.com/file/d/1HNK148VHFSKAU2gw69C1AXqAIWbCxoQj/view?usp=sharing"
+                href="https://drive.google.com/file/d/1HNK148VHFSKAu2gw69C1AXqAIWbCxoQj/view?usp=drive_link"
                 target="_blank"
                 rel="noreferrer"
                 style={linkStyle}
