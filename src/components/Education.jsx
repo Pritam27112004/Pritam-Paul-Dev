@@ -13,9 +13,7 @@ function Education() {
           <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.45] mb-3">
             Institute of Engineering and Management, Kolkata, India
             <br />
-            Minor : Cyber Security
-            <br />
-            Grade : 9.48/10
+            Minor Degree : Cyber Security
             <br />
             June, 2026 – July, 2026
           </p>

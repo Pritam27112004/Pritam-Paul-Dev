@@ -17,7 +17,7 @@ function Projects() {
           </div>
 
           <div className="min-w-0">
-            <h3 className=" text-[20px] leading-[1.4] font-medium text-[#f5f5f5] mb-[7px]">
+            <h3 className="text-[#ff4b4b] text-[20px] leading-[1.4] font-medium text-[#f5f5f5] mb-[7px]">
               {project.title}
             </h3>
 

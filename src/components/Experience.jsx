@@ -32,7 +32,7 @@ function Experience() {
           </div>
 
           <div>
-            <h3 className="text-[20px] leading-[1.4] font-medium text-[#f5f5f5] mb-[5px]">
+            <h3 className="text-[#ff4b4b] text-[20px] leading-[1.4] font-medium text-[#f5f5f5] mb-[5px]">
               {item.role}
             </h3>
             <p className="text-[#ff4b4b] text-[18px] max-md:text-[17px] leading-[1.45] mb-2">

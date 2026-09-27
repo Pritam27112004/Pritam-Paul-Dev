@@ -17,7 +17,7 @@ function Publications() {
           </div>
 
           <div className="min-w-0">
-            <h3 className="text-[19px] font-medium text-[#f5f5f5] mb-[7px] leading-[1.4]">
+            <h3 className="text-[#ff4b4b] text-[19px] font-medium text-[#f5f5f5] mb-[7px] leading-[1.4]">
               {publication.title}
             </h3>
 

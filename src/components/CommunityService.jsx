@@ -26,7 +26,7 @@ function CommunityService() {
       {communityService.map((item, index) => (
         <article
           key={index}
-          className="grid grid-cols-[85px_1fr] max-md:grid-cols-1 gap-x-[22px] max-md:gap-y-1 mb-7"
+          className="grid grid-cols-[85px_1fr] max-md:grid-cols-1 gap-x-[0px] max-md:gap-y-1 mb-7"
         >
           <div className="text-[18px] max-md:text-[17px] font-medium text-[#f5f5f5] leading-[1.5]"></div>
 

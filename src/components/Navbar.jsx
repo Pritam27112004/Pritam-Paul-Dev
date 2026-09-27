@@ -25,7 +25,7 @@ function Navbar() {
             Blog
           </Link>
           <a
-  href="https://drive.google.com/file/d/1HNK148VHFSKAu2gw69C1AXqAIWbCxoQj/view?usp=drive_link"
+  href="https://drive.google.com/file/d/1KOL1IsYzR82NZWerf8ArWq0vxZNV0CJx/view?usp=drive_link"
   target="_blank"
   rel="noopener noreferrer"
   className="text-[#ff4b4b] hover:text-[#ff6666] text-[18px] max-md:text-[16px] font-normal transition-colors"
@@ -34,7 +34,7 @@ function Navbar() {
 </a>
 
 <a
-  href="https://drive.google.com/file/d/1nh1x2qVs3oioEjS3ApKKzHZSF7zeK0IF/view"
+  href="https://drive.google.com/file/d/17Ankc_t_dYd2amoUp0N4A-YkXR6Owr2g/view?usp=drive_link"
   target="_blank"
   rel="noopener noreferrer"
   className="text-[#ff4b4b] hover:text-[#ff6666] text-[18px] max-md:text-[16px] font-normal transition-colors"
