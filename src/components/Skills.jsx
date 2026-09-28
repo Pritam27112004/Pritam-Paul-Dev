@@ -15,7 +15,7 @@ function Skills() {
           </h3>
 
           <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.45]">
-            Data Structures, Object Oriented Programming, Database Management Systems, Operating Systems, Computer Networks
+            Data Structures, Algorithms, Object Oriented Programming, Database Management Systems, Operating Systems, Computer Networks, Software Engineering, Machine Learning
           </p>
         </div>
         <div>
@@ -34,7 +34,7 @@ function Skills() {
           </h3>
 
           <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.45]">
-            HTML, CSS, React.js, Tailwind, Node.js, Express.js, RESTAPI
+            HTML, CSS, React.js, Tailwind, Bootstrap, Node.js, Express.js, RESTAPI
           </p>
         </div>
 
@@ -44,7 +44,7 @@ function Skills() {
           </h3>
 
           <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.45]">
-            Machine Learning, Deep Learning, Data Analysis, Pandas, NumPy,
+            Machine Learning, Deep Learning, Data Analysis, Pandas, NumPy, Matplotlib, 
             Scikit-learn, TensorFlow, ETL, Databricks
           </p>
         </div>
@@ -55,7 +55,7 @@ function Skills() {
           </h3>
 
           <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.45]">
-            MySQL, PostgreSQL, MongoDB, PostGIS
+            MySQL, PostgreSQL, MongoDB
           </p>
         </div>
 

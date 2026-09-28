@@ -36,7 +36,7 @@ function Projects() {
                 rel="noreferrer"
                 className="text-[#ff4b4b] hover:text-[#ff6666] text-[17px] transition-colors"
               >
-                [Project]
+                [Link]
               </a>
             )}
           </div>
