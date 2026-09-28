@@ -10,13 +10,10 @@ function Blog() {
       <main className="w-full max-w-[900px] mx-auto px-[14px] pt-[35px] pb-[70px]">
         <header className="pb-[30px] border-b border-[#303030]">
           <h1 className="text-[38px] max-md:text-[34px] leading-[1.2] font-normal text-[#f5f5f5] mb-2.5">
-            Blog
+            Blogs
           </h1>
 
-          <p className="max-w-[700px] text-[#eeeeee] text-[18px] max-md:text-[17px] mb-0 leading-[1.45]">
-            Thoughts, technical notes, experiments and lessons
-            from my journey in technology and research.
-          </p>
+          
         </header>
 
         {blogs.map((blog) => (

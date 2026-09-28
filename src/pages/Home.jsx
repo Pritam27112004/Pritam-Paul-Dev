@@ -12,8 +12,8 @@ import Footer from "../components/Footer";
 import Education from "../components/Education";
 import Certifications from "../components/Certifications";
 import Courses from "../components/Courses";
-import Books from "../components/Books";
 import Skills from "../components/Skills";
+import LeetCodeHeatmap from "../components/LeetCodeHeatmap";
 function Home() {
   return (
     <>
@@ -33,7 +33,9 @@ function Home() {
         <Talks />
         <Leadership />
         <CommunityService />
+        <LeetCodeHeatmap/>
         <Footer />
+        
       </main>
     </>
   );
