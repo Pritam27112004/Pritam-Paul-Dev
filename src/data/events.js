@@ -1,4 +1,9 @@
 export const events = [
+  {
+      title: "Paper Presenter - ICSWM Conference Kolkata, India [26.09.2026]",
+      description:
+        "Presented my paper 'India’s Data Center Boom by 2030: An Emerging Threat to Water Security and Sustainable Development' at 5th International Conference on Sustainable Waste Management(ICSWM).",
+    },
     {
       title: "IEM Research Center",
       description:

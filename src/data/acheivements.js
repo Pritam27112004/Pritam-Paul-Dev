@@ -4,6 +4,10 @@ export const achievements = [
       description: "Secured Department Rank 1 based on my 2nd year cgpa i.e 9.48.",
     },
     {
+      title: "Project Competition Winner[2026]",
+      description: "Secured 1st position in project competiotion of IEEE Computer Society.",
+    },
+    {
       title: "Finalist at CII Eastern Region Hackathon[2026]",
       description: "Finalist of Confederation of Indian Industry Eastern Region Hackathon.",
     },

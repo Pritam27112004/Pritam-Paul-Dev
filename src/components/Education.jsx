@@ -18,6 +18,8 @@ function Education() {
             Minor Degree : Cyber Security
             <br />
             July, 2024 – July, 2028
+            <br />
+            CGPA : 9.48/10
           </p>
         </div>
 
@@ -26,12 +28,37 @@ function Education() {
             Certificate in Cybersecurity and AI Data Analytics
           </h3>
           <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.45] mb-3">
-            Asian Institute of Technology(AIT), Bangkok, Thailand
+            Asian Institute of Technology(AIT), Bangkok, Thailand 
             <br />
             June, 2026 – July, 2026
           </p>
         </div>
+
+        <div>
+          <h3 className="text-[#ff4b4b] text-[20px] leading-[1.4] font-medium mb-[5px]">
+            High School - Grade 12 (Higher Secondary) 
+          </h3>
+          <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.45] mb-3">
+            Subjects : Physics, Chemistry, Maths, English
+            <br />
+            Grade : 89.20%
+            
+          </p>
+        </div>
+
+        <div>
+          <h3 className="text-[#ff4b4b] text-[20px] leading-[1.4] font-medium mb-[5px]">
+            Matriculation - Grade 10 (Secondary School) 
+          </h3>
+          <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.45] mb-3">
+            Subjects : Maths, Science, English
+            <br />
+            Grade : 93.30%
+                  </p>
+        </div>
       </div>
+
+      
     </section>
   );
 }

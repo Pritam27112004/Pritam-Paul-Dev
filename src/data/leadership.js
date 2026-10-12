@@ -17,7 +17,7 @@ export const leadership = [
     {
       role: "Web Developer",
       description:
-        "Computer society India University of Engineering and Management Kolkata Chapter [July 2025 - Aprit 2026]",
+        "Computer society of India(CSI) University of Engineering and Management Kolkata Chapter [July 2025 - Aprit 2026]",
     },
     {
       role: "Web Developer",
