@@ -12,6 +12,6 @@ export const communityService = [
     {
       role: "Computer Education Volunteer",
       description:
-        "Government Kindergarten School, Bolpur, West Bengal, India: Participated in an educational outreach event where I taught the basics of computers to underprivileged students from a kindergarten school in a rural village.",
+        "Government Kindergarden School, Bolpur, West Bengal, India: Participated in an educational outreach event where I taught the basics of computers to underprivileged students from a kindergarten school in a rural village.",
     },
   ];

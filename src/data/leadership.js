@@ -32,7 +32,7 @@ export const leadership = [
     {
       role: "Coordinator and Event Management",
       description:
-        "Innofusion 4.0 Haachatjon 2026",
+        "Innofusion 4.0 Hackathon 2026",
     },
     {
       role: "Student Body Advisor",
@@ -42,7 +42,7 @@ export const leadership = [
     {
       role: "Event operation and Management",
       description:
-        "Driveblaze 2025 hackathon",
+        "Driveblaze 2025 Hackathon",
     },
     {
       role: "Event Organiser",

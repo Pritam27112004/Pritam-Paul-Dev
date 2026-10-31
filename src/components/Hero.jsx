@@ -48,7 +48,7 @@ function Hero() {
             Engineering. I am currently learning Software Development and Data
             Science. My domain hovers around Software Engineering, Data
             Engineering, Machine Learning and Deep Learning. I previously
-            worked at IEM IEDC Lab, empwr.edNEXT. Apart from this I enjoy
+            worked at IEM IEDC Lab as Summer Intern and empwr.edNEXT as QA Engineer. I was also an Open-Source Contributor at GirlScript Summer of Code 2026. Apart from this I enjoy
             teaching and learning new things in tech everyday.
 
             <span className="text-[#ff4b4b]"> #ProblemSolving</span>{" "}

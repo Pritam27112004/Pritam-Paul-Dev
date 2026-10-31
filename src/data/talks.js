@@ -1,4 +1,4 @@
-export  const talks = [
+export const talks = [
     {
       year: 2026,
       title: "Summer of Code [Taught DSA]",

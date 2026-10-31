@@ -5,7 +5,7 @@ export const achievements = [
     },
     {
       title: "Project Competition Winner[2026]",
-      description: "Secured 1st position in project competiotion of IEEE Computer Society.",
+      description: "Secured 1st position in project competition of IEEE Computer Society.",
     },
     {
       title: "Finalist at CII Eastern Region Hackathon[2026]",
@@ -25,7 +25,7 @@ export const achievements = [
     },
     {
       title: "NPTEL Course Topper[2025]",
-      description: "NPTEL National topper of course Data Structure and Algorithms[IIT KGP].",
+      description: "NPTEL National topper of course Data Structure and Algorithms[IIT KGP], .",
     },
     {
       title: "Vice Chancellor’s Award[2025]",

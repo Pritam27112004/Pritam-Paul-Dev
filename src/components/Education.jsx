@@ -8,12 +8,14 @@ function Education() {
       <div className="space-y-6">
         <div>
           <h3 className="text-[#ff4b4b] text-[20px] leading-[1.4] font-medium mb-[5px]">
-            Bachelors of Technology in Computer Science and Engineering
+            Bachelors Degree - Bachelors of Technology in Computer Science and Engineering
           </h3>
           <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.45] mb-3">
             Institute of Engineering & Management(IEM), Kolkata, India
             <br />
             University of Engineering and Management(UEM), Kolkata, India
+            <br />
+            Major Degree : Computer Science & Engineering
             <br />
             Minor Degree : Cyber Security
             <br />
