@@ -2,7 +2,19 @@ export const publications = [
   {
     year: 2026,
     title:
-      "India’s Data Center Boom by 2030: An Emerging Threat to Water Security and Sustainable Development[Abstract]",
+      "Real-Time Multimodal Detection of Fraud and Scam Calls Using Conversation Stage Modeling and Ensemble Learning[Conference Paper]",
+    authors: "International Conference on AI-Driven Sustainable Cyber-Physical Systems (AISCPS) - 2026",
+    venue: "-2026",
+    links: [
+      {
+        label: "Link",
+        url: "",}
+    ],
+  },
+  {
+    year: 2026,
+    title:
+      "India’s Data Center Boom by 2030: An Emerging Threat to Water Security and Sustainable Development[Book Chapter]",
     authors: "",
     venue: "ICSWM-2026",
     links: [
@@ -27,7 +39,7 @@ export const publications = [
     {
     year: 2025,
     title:
-      "Effect of nonthermal ions on linear dust acoustic waves in an inhomogeneous plasma[Abstract]",
+      "Effect of nonthermal ions on linear dust acoustic waves in an inhomogeneous plasma[Book Chapter]",
     authors: "",
     venue: "International Symposium on Sustainable Technologies[IEM]",
     links: [

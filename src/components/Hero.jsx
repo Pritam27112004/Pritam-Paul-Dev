@@ -6,6 +6,7 @@ import {
   FaResearchgate,
   FaGoogle,
 } from "react-icons/fa";
+import { MapPin } from "lucide-react";
 
 import {
   SiLeetcode,
@@ -39,12 +40,14 @@ function Hero() {
             About Me
           </h2>
 
-          <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.45] mb-4">
-            Kolkata, India
+
+        <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.45] mb-4 flex items-center gap-2">
+           <MapPin size={18} className="text-[#F2A900]" />
+              Kolkata, India
           </p>
 
           <p className="text-[#eeeeee] text-[18px] max-md:text-[17px] leading-[1.55]">
-            Hi, I am Pritam Paul, I am passionate about Problem Solving and
+            Hello World! I am Pritam Paul, I am passionate about Problem Solving and
             Engineering. I am currently learning Software Development and Data
             Science. My domain hovers around Software Engineering, Data
             Engineering, Machine Learning and Deep Learning. I previously

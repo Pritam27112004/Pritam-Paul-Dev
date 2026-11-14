@@ -1,4 +1,11 @@
 export const experiences = [
+   {
+      year: "Sep, 2026 - Present [Kolkata, India]",
+      role: "Webmaster & Tech Team Lead",
+      organization: "CST-CSIT-IEDC Lab",
+      description:
+        "Building the website for CST-CSIT Lab , along with managing developers team of 5+ members.",
+    },
     {
       year: "March, 2026 - July, 2026 [Kolkata, India]",
       role: "Research Intern",
