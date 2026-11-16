@@ -222,7 +222,7 @@ function Hero() {
         {/* RIGHT SIDE - IMAGE */}
         <div className="w-[220px] h-[330px] flex-shrink-0 ml-auto max-md:w-[180px] max-md:h-[270px] max-md:ml-0">
           <img
-            src="/image.png"
+            src="/image2.jpeg"
             alt="Pritam Paul"
             className="w-full h-full object-cover rounded-[16px] block"
           />
