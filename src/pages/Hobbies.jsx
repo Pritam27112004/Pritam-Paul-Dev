@@ -7,8 +7,7 @@ function Hobbies() {
           My Hobbies
         </h1>
         <p className="text-gray-400 text-lg">
-          Beyond technology, research and academics,
-          here's a glimpse into things I enjoy.
+          Hello World! Welcome to my zone of hobbies.
         </p>
       </div>
       {/* Footer */}

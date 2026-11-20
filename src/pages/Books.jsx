@@ -30,6 +30,37 @@ const books = [
     title: "Zero to One",
     cover: "https://covers.openlibrary.org/b/isbn/9780804139298-L.jpg",
   },
+  {
+    id: 7,
+    title: "The Power of Your Subconscious Mind by Joseph Murphy",
+    cover: "https://covers.openlibrary.org/b/olid/OL27948099M-L.jpg",
+  },
+   {
+  id: 8,
+  title: "Life's Amazing Secrets",
+  cover: "https://covers.openlibrary.org/b/olid/OL32180582M-L.jpg",
+},
+{
+  id: 9,
+  title: "Win Your Inner Battles",
+  cover: "https://covers.openlibrary.org/b/olid/OL40789483M-L.jpg",
+},
+{
+  id: 10,
+  title: "Do It Today",
+  cover: "https://covers.openlibrary.org/b/olid/OL47084017M-L.jpg",
+},
+{
+  id: 11,
+  title: "Ikigai: The Japanese Secret to a Long and Happy Life",
+  cover: "https://covers.openlibrary.org/b/olid/OL27306019M-L.jpg",
+},
+{
+  id: 12,
+  title: "The Ikigai Journey",
+  cover: "https://covers.openlibrary.org/b/olid/OL29456676M-L.jpg",
+},
+
 ];
 
 function Books() {

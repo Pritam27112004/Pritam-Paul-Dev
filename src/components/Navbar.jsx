@@ -46,6 +46,16 @@ function Navbar() {
             CV
           </a>
 
+          <a
+            href="https://drive.google.com/file/d/1trZFq7J_zy7zMf4Ap1ZqSOOts2elXt7M/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[#ff4b4b] hover:text-[#ff6666] text-[18px] max-md:text-[16px] font-normal transition-colors"
+          >
+            Research-CV
+          </a>
+
+
           {/* My Zone Dropdown */}
           <div className="relative group">
             <button
